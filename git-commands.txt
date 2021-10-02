@@ -1,0 +1,2 @@
+Get Git Version > git --version 
+Get git status > git status
