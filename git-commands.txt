@@ -1,2 +1,6 @@
 Get Git Version > git --version 
 Get git status > git status
+
+Add to git > git add .
+Commit files from local repo  > git commit -m "first commit"
+Push > git push -u origin master
